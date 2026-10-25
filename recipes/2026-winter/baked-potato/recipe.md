@@ -2,7 +2,7 @@
 This dish really comes in handy when you have other things to do. You can clean the house or do other chores while
 it just does it's thing.
 
-![Alternative Title for your Image](baked-potato.jpg)
+![Alternative Title for your Image](sweetpotato.png)
 
 **Provided by:** Erik K.
 

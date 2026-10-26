@@ -28,3 +28,9 @@ This is a recipe for Brownies that have a slightly crispy top and a soft Center.
 7. Pour the batter into the prepared baking pan.
 8. Bake for 25 minutes. A toothpick inserted into the center should come out with a few moist Crumbs (otherwise the Brownie gets too dry).
 9. Let the brownies cool before cutting them into squares.
+
+## Tips
+- For extra fudgy brownies, avoid overbaking them. The center should still be slightly soft.
+- Let the brownies cool completely before cutting them into squares.
+- For a richer chocolate flavor, add some chocolate chips to the batter.
+- Store the brownies in an airtight container at room temperature for up to 3 days.

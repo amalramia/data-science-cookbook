@@ -19,4 +19,12 @@ This is a recipe for Brownies that have a slightly crispy top and a soft Center.
 - 1/4 teaspoon salt
 
 ## Instructions
-- To be added in the next commit.
+1. Preheat the oven to 180°C.
+2. Line a baking pan with parchment paper.
+3. Melt the butter and dark chocolate together over low heat until smooth. Let the mixture cool.
+4. In a separate bowl, whisk the eggs, sugar, and vanilla extract together.
+5. Add the melted chocolate mixture and stir until combined.
+6. Add the flour, cocoa powder, and salt. Gently mix until no dry flour remains.
+7. Pour the batter into the prepared baking pan.
+8. Bake for 25 minutes. A toothpick inserted into the center should come out with a few moist Crumbs (otherwise the Brownie gets too dry).
+9. Let the brownies cool before cutting them into squares.
